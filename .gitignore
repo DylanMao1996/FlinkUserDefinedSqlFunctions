@@ -1,0 +1,17 @@
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/logs/
+/out/
+**/target/
+**/dependency-reduced-pom.xml
+**/*.log
+**/.settings
+**/.classpath
+**/.project
+**/.cache-*
+**/scalastyle-output.xml
+**/src/test/resources/*.env
+**/src/test/resources/*-compose.yml
+**/src/test/resources/default.conf
